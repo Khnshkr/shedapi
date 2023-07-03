@@ -6,6 +6,7 @@ import requests
 from werkzeug.utils import secure_filename
 import os
 import ffmpeg
+import scipy
 from scipy.spatial import distance
 
 
